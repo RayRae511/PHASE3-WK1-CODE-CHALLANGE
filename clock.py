@@ -15,8 +15,6 @@ def time_converter(hour, minute, period):
     return time_string
 
 #Testing the function...
-'''
+
 print(time_converter(12, 10, 'am'))
-print(time_converter(1, 25, 'pm'))
-print(time_converter(5, 12, 'am'))
-'''
+
